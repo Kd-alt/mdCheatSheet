@@ -30,8 +30,8 @@ TYPOGRAPHY
 - > Block quote
 - H~2~O
 - a^2^ + b^2^
-- ==Highlighted Words==
+- == Highlighted Words==
 
 ---
-
+___
 
