@@ -51,6 +51,6 @@ Table
 
 Emoji
 ---
-:) emoji support
+:| emoji support
 ___
 
