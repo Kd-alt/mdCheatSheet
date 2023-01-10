@@ -1,3 +1,5 @@
+MarkDown Examples
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -23,8 +25,12 @@ TYPOGRAPHY
 ---
 
 - *BOLD TEXT*
-
 - ***Italic Text***
+- ~~Strike Through~~
+- > Block quote
+- H~2~O
+- a^2^ + b^2^
+- ==Highlighted Words==
 
 ---
 
