@@ -28,10 +28,29 @@ TYPOGRAPHY
 - ***Italic Text***
 - ~~Strike Through~~
 - > Block quote
-- H~2~O
-- a^2^ + b^2^
+H~2~O
+a^2^+b^2^
 - == Highlighted Words==
 - [Kd-alt](https://github.com/Kd-alt/)
+- MarkDown
+  :Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+
+Task List
 ---
+- [x] item a
+- [ ] item b
+- [ ] item c
+
+Table
+---
+
+|ColA|ColB|
+|----|----|
+|ItemA|ItemB|
+|ItemC|ItemD|
+
+Emoji
+---
+:) emoji support
 ___
 
